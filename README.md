@@ -6,10 +6,11 @@ My personal portfolio website showcasing my academic background, professional ex
 
 | Page | Description |
 |------|-------------|
-| `index.html` | Landing page with an about me intro, education summary, honors & awards, and contact info |
+| `index.html` | Landing page with about me intro, education summary, and honors & awards |
 | `experience.html` | Work history at Rice Lake Weighing Systems and John Deere |
 | `skills.html` | Technical skills organized into categories (languages, web tech, tools, hardware) |
 | `projects.html` | Projects from coursework and personal work (portfolio, Wordle, temp sensor, processor, Roomba) |
+| `contact.html` | Contact info including email, LinkedIn, and GitHub |
 
 ## Tech Stack
 
