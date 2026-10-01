@@ -68,6 +68,19 @@ footer {
     color: #666;
 }
 
+#not-found {
+    text-align: center;
+}
+
+#not-found .compass-icon {
+    display: block;
+    margin: 0 auto 16px;
+}
+
+#not-found .back-link {
+    text-align: center;
+}
+
 .skills-category {
     margin-bottom: 20px;
 }
