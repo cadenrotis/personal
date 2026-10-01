@@ -6,16 +6,18 @@ My personal portfolio website showcasing my academic background, professional ex
 
 | Page | Description |
 |------|-------------|
-| `index.html` | Landing page with about me intro, education summary, and honors & awards |
+| `index.html` | Landing page with hero section, intro, and quick-link guide cards to each section |
 | `experience.html` | Work history at Rice Lake Weighing Systems and John Deere |
 | `skills.html` | Technical skills organized into categories (languages, web tech, tools, hardware) |
 | `projects.html` | Projects from coursework and personal work (portfolio, Wordle, temp sensor, processor, Roomba) |
+| `honors.html` | Academic honors, awards, and scholarship programs |
 | `contact.html` | Contact info including email, LinkedIn, and GitHub |
+| `404.html` | Custom 404 page with compass icon and link back to homepage |
 
 ## Tech Stack
 
 - HTML5
-- CSS3
+- CSS3 (Flexbox, SVG icons)
 
 ## Running Locally
 
