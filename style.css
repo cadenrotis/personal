@@ -69,12 +69,17 @@ footer {
 }
 
 #not-found {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
     text-align: center;
 }
 
 #not-found .compass-icon {
     display: block;
-    margin: 0 auto 16px;
 }
 
 #not-found .back-link {
