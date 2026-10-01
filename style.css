@@ -68,6 +68,24 @@ footer {
     color: #666;
 }
 
+#not-found {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+    text-align: center;
+}
+
+#not-found .compass-icon {
+    display: block;
+}
+
+#not-found .back-link {
+    text-align: center;
+}
+
 .skills-category {
     margin-bottom: 20px;
 }
