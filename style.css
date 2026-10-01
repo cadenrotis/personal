@@ -37,20 +37,11 @@ img {
     max-width: 100%;
 }
 
-.subtitle {
-    font-family: 'Courier New', Courier, monospace;
-    color: brown;
-}
-
 footer {
     margin-top: auto;
     text-align: center;
     padding: 10px;
     background-color: #333;
-    color: #fff;
-}
-
-footer a {
     color: #fff;
 }
 
