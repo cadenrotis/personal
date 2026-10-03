@@ -68,6 +68,11 @@ footer {
     padding: 20px;
 }
 
+.project > img {
+    display: block;
+    margin: 0 auto;
+}
+
 .project-gallery {
     display: grid;
     grid-template-columns: 1fr 1fr;
