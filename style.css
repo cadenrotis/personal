@@ -77,6 +77,8 @@ footer {
 
 .project-gallery img {
     width: 100%;
+    aspect-ratio: 750 / 424;
+    object-fit: cover;
     border: 1px solid #ddd;
     border-radius: 4px;
 }
