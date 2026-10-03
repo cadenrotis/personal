@@ -88,6 +88,33 @@ footer {
     border-radius: 4px;
 }
 
+.job-gallery {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 8px;
+    margin-top: 12px;
+}
+
+.job-gallery img {
+    width: 100%;
+    object-fit: cover;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    display: block;
+}
+
+.job-gallery figure {
+    margin: 0;
+}
+
+.job-gallery figcaption {
+    text-align: center;
+    font-style: italic;
+    font-size: 0.9em;
+    color: #555;
+    margin-top: 4px;
+}
+
 .job {
     margin-bottom: 30px;
     border-left: 3px solid #333;
