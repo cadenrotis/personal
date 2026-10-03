@@ -68,6 +68,26 @@ footer {
     padding: 20px;
 }
 
+.project > img {
+    display: block;
+    margin: 0 auto;
+}
+
+.project-gallery {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 8px;
+    margin-bottom: 12px;
+}
+
+.project-gallery img {
+    width: 100%;
+    aspect-ratio: 750 / 424;
+    object-fit: cover;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
 .job {
     margin-bottom: 30px;
     border-left: 3px solid #333;
