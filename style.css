@@ -45,6 +45,17 @@ footer {
     color: #fff;
 }
 
+/* --- Content Pages Left Padding --- */
+
+#experience,
+#skills,
+#projects,
+#contact {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 20px 40px;
+}
+
 .container {
     max-width: 960px;
     margin: 0 auto;
