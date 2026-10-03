@@ -100,6 +100,19 @@ footer {
     object-fit: cover;
     border: 1px solid #ddd;
     border-radius: 4px;
+    display: block;
+}
+
+.job-gallery figure {
+    margin: 0;
+}
+
+.job-gallery figcaption {
+    text-align: center;
+    font-style: italic;
+    font-size: 0.9em;
+    color: #555;
+    margin-top: 4px;
 }
 
 .job {
