@@ -68,6 +68,20 @@ footer {
     padding: 20px;
 }
 
+.project-gallery {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-bottom: 12px;
+}
+
+.project-gallery img {
+    flex: 1 1 200px;
+    max-width: 100%;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
 .job {
     margin-bottom: 30px;
     border-left: 3px solid #333;
