@@ -69,15 +69,14 @@ footer {
 }
 
 .project-gallery {
-    display: flex;
-    flex-wrap: wrap;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
     gap: 8px;
     margin-bottom: 12px;
 }
 
 .project-gallery img {
-    flex: 1 1 200px;
-    max-width: 100%;
+    width: 100%;
     border: 1px solid #ddd;
     border-radius: 4px;
 }
